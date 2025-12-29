@@ -1,6 +1,6 @@
 ### Hi there, I'm Bongchul 👋
 
-- 🌱 I’m currently learning **React**, **TypeScript**, **Next.js**, **Web GL**, **Three.js**
+- 🔭 I’m currently working on **React**, **TypeScript**, **Next.js**
 - 📫 How to reach me: sbc1142@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcround)](https://github.com/anuraghazra/github-readme-stats)
